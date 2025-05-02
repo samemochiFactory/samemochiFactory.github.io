@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy polilcy for Chrome Extension by samemochiFactory
 ## プライバシポリシー
 
